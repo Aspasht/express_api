@@ -13,7 +13,7 @@ This is a beginner-friendly API designed for educational purposes, developed usi
 
 To run this project, make sure to set up the necessary environment variables and execute the following commands.
 
-    npm install 
+    npm install && npm run build
 
 ## Usage
 
